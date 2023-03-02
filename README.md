@@ -1,5 +1,5 @@
 # CHIT CHAT Web Application
-This project is a hotel management website as part of the database system course (2/2021)
+This project is a web chat between friends as part of the Software Engineering course (1/2021)
 
 # important 
 Please Import .db/chat_app_db.sql file in phpmyadmin before run project
