@@ -1,3 +1,10 @@
+# CHIT CHAT Web Application
+This project is a hotel management website as part of the database system course (2/2021)
+
+# important 
+Please Import .db/chat_app_db.sql file in phpmyadmin before run project
+
+
 # Chat Application using PHP with MySQL & Ajax
 
 version: 1.0.0
