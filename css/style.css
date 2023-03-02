@@ -1,0 +1,86 @@
+.vh-200 {
+	min-height: 200vh;
+}
+.w-400 { /* ความกว้าง*/
+	width: 400px;
+}
+.fs-xs {
+	font-size: 1rem;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+.fs-big {
+	font-size: 5rem !important;
+}
+.online { /* Show user status points. */
+	width: 5px;
+	height: 5px;
+	background: green;
+	border-radius: 50%;
+	margin-left: 10%;
+}
+
+.w-15 {
+	width: 15%;
+}
+
+
+.fs-sm {
+	font-size: 1.4rem;
+}
+.lastchat { /* Show chat time. */
+	color: #969696;
+	font-size: 0.7rem;
+	text-align: right;
+}
+small {
+	color: #969696;
+	font-size: 0.7rem;
+	text-align: right;
+}
+.chat-box { /* Chat box */
+	overflow-y: auto;
+	overflow-x: hidden;
+	max-height: 50vh; 
+	word-break: break-all;
+}
+.rtext {
+	width: 65%;
+	background: #9BDEC6;
+	color: #444;
+}
+
+.ltext { /* สีชื่อ account แชท */
+	width: 65%;
+	background:#f8f9fa;
+	color:#444;
+} 
+/* width */
+*::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+*::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+*::-webkit-scrollbar-thumb {
+  background: #aaa;
+}
+
+/* Handle on hover */
+*::-webkit-scrollbar-thumb:hover {
+  background: #8d8d8d;
+}
+
+textarea {
+	resize: none;
+}
+
+/*message_status*/
+
+
